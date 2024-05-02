@@ -2,16 +2,18 @@
   "name": "dark-gruvbox",
   "displayName": "Dark Gruvbox",
   "description": "This is the colourtheme i made for what i think to be \"Perfect\"",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.89.0"
   },
+  "publisher": "Whiteye-T43",
   "categories": [
     "Themes"
   ],
+  "icon": "Darkmon.png",
     "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/asdfghjA1/Gruvbox-Dark"
   },
   "contributes": {
     "themes": [
