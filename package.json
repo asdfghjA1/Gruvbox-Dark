@@ -1,0 +1,25 @@
+{
+  "name": "dark-gruvbox",
+  "displayName": "Dark Gruvbox",
+  "description": "This is the colourtheme i made for what i think to be \"Perfect\"",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+    "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Gruvbox Black Reaver",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Gruvbox Black Reaver-color-theme.json"
+      }
+    ]
+  }
+}
