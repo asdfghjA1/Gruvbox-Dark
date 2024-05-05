@@ -1,15 +1,15 @@
 {
   "name": "dark-gruvbox",
-  "displayName": "Dark Gruvbox",
-  "description": "This is the colourtheme i made for what i think to be \"Perfect\"",
-  "version": "0.0.2",
+  "displayName": "Whiteye Themes",
+  "description": "Multiple color themes in just one extention with variations on dialect , Optimised for all vscode versions (1.4 onwards)",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.89.0"
   },
   "publisher": "Whiteye-T43",
   "categories": [
     "Themes"
-  ],
+  ], 
   "icon": "Darkmon.png",
     "repository": {
     "type": "git",
@@ -21,6 +21,11 @@
         "label": "Dark Gruvbox Black Reaver",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark Gruvbox Black Reaver-color-theme.json"
+      },
+        {
+        "label": "Monokai Reaver",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai.json"
       }
     ]
   }
